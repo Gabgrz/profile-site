@@ -1,6 +1,6 @@
 # Gabriel Garoz - Profile Site
 
-> **Note**: Past personal portfolio website.
+**Past** personal portfolio website with a blog.
 
 **Live**: http://gabrielgaroz.com/
 
